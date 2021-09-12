@@ -1,9 +1,4 @@
-I did two projects 
-
-The first Creating a TCP client and server connection in C#. I felt that was not very big so I did also a
-Tic-Tac-Toe game in C++.
-
-Tic-Tac Toe game
+***Tic-Tac Toe Client/Server TCP Game***
 
 How to start the game?
 
@@ -15,15 +10,15 @@ After both the clients are connected Server sends f for FIRST and s for SECOND.
 
 SERVER SENDS
 
-const std::string FIRST = "f"; 
-const std::string SECOND = "s"; 
-const std::string QUIT = "q"; 
-const std::string WON = "w"; 
-const std::string LOST = "l"; 
-const std::string TIE = "t"; 
-const std::string ERROR = "e"; 
-const std::string CONTINUE = "c"; 
-const std::string TAKEN = "a";
+const std::string FIRST = "f";  <br />
+const std::string SECOND = "s"; <br />
+const std::string QUIT = "q";   <br />
+const std::string WON = "w";    <br />
+const std::string LOST = "l";   <br />
+const std::string TIE = "t";   <br />
+const std::string ERROR = "e";  <br />
+const std::string CONTINUE = "c";  <br />
+const std::string TAKEN = "a";  <br />
 
 CLIENTS SENDS
 
